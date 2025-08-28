@@ -1,1 +1,1 @@
-# handwritten-equation-slover1
+# Handwritten Equation Solver\n\nThis project detects handwritten mathematical equations from an image and solves them automatically using Python, OpenCV, SymPy, and ML models.\n\nSee full documentation in the included PDF.
